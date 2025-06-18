@@ -1,6 +1,6 @@
-name=Game
+name=Life
 author=carlw0S
-description=TODO
-bundleID=com.carlw0S.game
+description=My take on Conway's Game of Life for the Playdate console
+bundleID=com.carlw0S.life
 version=1.0.0
 buildNumber=1
